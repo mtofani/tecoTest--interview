@@ -104,9 +104,9 @@ Response FAIL:
 2) Manejar mas validaciones de error en los EP y entradas, autenticacion mediante token o al menos un basic-auth. 
 
 3) Realizar Test cruzado/Revisiones mas alla del unit.
-4) El el modelo de datos no incluí la coleccion "Materias"  en si, porque no hizo falta para resolver la problematica de test. Claramente en un entorno real, hubiese participado en algunas operaciones y lo reemplace por un Array en la coleccion de alumnos.
+4) En el modelo de datos no incluí la coleccion "Materias", porque no hizo falta para resolver la problematica de test. Claramente en un entorno real, hubiese participado en algunas operaciones y lo reemplace por un Array en la coleccion de alumnos.
 5) Guardar los request en una DB en vez del log de la app. Para saber quien me consume y que servicios.
-6) Un importer masivo, desde archivos.
+6) Un JSON/DB importer masivo, desde archivos.
 entre otras..
 
 ## Conclusión

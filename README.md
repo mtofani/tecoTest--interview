@@ -1,7 +1,7 @@
 
 # TestTeco
 Challenge 
-## Instalacion
+## Instalación
 
 
 ```bash
@@ -30,7 +30,7 @@ Se tienen dos colecciones de datos en la base "secundaria" ( alumnos y notas). D
 **Si tuviera que armarlo hoy ...  lo haría en React. y usaría solo el back Rest de Python si es necesario. 
  ya que da  mucha mas agilidad para desarrollar con componentes vs el/los motores de template usa Flask.*
  
-## Utilizacion 
+## Utilización 
 Se debe ejecutar el app.py, y probar desde [API](http://127.0.0.1:5000/).
 Los datos ya estan cargados, por medio de la clase Loader.
 
@@ -106,9 +106,10 @@ Response FAIL:
 3) Realizar Test cruzado/Revisiones mas alla del unit.
 4) El el modelo de datos no incluí la coleccion "Materias"  en si, porque no hizo falta para resolver la problematica de test. Claramente en un entorno real, hubiese participado en algunas operaciones y lo reemplace por un Array en la coleccion de alumnos.
 5) Guardar los request en una DB en vez del log de la app. Para saber quien me consume y que servicios.
+6) Un importer masivo, desde archivos.
 entre otras..
 
-## Conclusion
+## Conclusión
 Mas alla de la propuesta en si, cuenten conmigo para cualquier tema de nuevas tecnologías. Ya que es interesante estar en contacto con colegas de las telco e intercambiar experiencias e info.
 
 Gracias!

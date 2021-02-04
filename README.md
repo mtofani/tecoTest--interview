@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## Arquitectura - Diseño
 
-Si bien estoy en proceso a JavaScript para este caso opté  por las siguientes tecnologias : 
+Si bien estoy en proceso a de moverme finalmente a JavaScript para este caso opté  por las siguientes tecnologias : 
 **Framework**: Flask RESTx - API  [RESTX](https://flask-restx.readthedocs.io/en/latest/)
 
 **DB**: Con el fin de explorar un poco mas MongoDB ya que solo habia hechos algunas pruebas, me parecia un buen desafio.

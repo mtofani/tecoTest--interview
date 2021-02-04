@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Si bien estoy en proceso a de moverme finalmente a JavaScript para este caso opté  por las siguientes tecnologias : 
 **Framework**: Flask RESTx - API  [RESTX](https://flask-restx.readthedocs.io/en/latest/)
 
-**DB**: Con el fin de explorar un poco mas, elegí MongoDB ya que solo habia hechos algunas pruebas, me parecia divertido para sumarme al desafio, de haber trabajado siempre con SQL y afines.
+**DB**: Con el fin de explorar un poco mas, elegí MongoDB en SAAS (ATLAS DB) ya que solo habia hechos algunas pruebas, me parecia divertido para sumarme al desafio, de haber trabajado siempre con SQL y afines.
 
 Se tienen dos colecciones de datos en la base "secundaria" ( alumnos y notas). Dentro de alumno hay un arreglo de materias.
 

@@ -100,7 +100,8 @@ Response FAIL:
 ### Para las pruebas ya estan creados dos alumnos de ID, 1 y 2 ###
 
 ## Mejoras
-1) El proyecto se debería  estructurar y subdividir mas folders, en rutas, controllers, view (si corresponde PY)  , db,  namespaces etc.. Por los tiempos, claramente fui por lo mas resumido posible.
+1) El proyecto se debería  estructurar y subdividir mas folders, en rutas, controllers, view (si corresponde PY)  , db,  namespaces etc.. Por los tiempos, claramente fui por lo mas resumido posible. La inclusion de un ORM como un mongoose sería ideal para escalar.
+
 2) Manejar mas validaciones de error en los EP y entradas, autenticacion mediante token o al menos un basic-auth. 
 
 3) Realizar Test cruzado/Revisiones mas alla del unit.

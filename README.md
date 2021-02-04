@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 
-## Documentacion
+## Documentación
  [SwaggerDOC](http://127.0.0.1:5000/) - Puerto 5000 localhost, esta toda la documentacion de como utilizar la API de la APP.
 
 ## Arquitectura - Diseño

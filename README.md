@@ -28,7 +28,7 @@ Se tienen dos colecciones de datos en la base "secundaria" ( alumnos y notas). D
 2) Fuera de alcance el frontEnd del Portal. En su "lugar" utilicé el framework Restx (simplificando varias cosas) que agiliza la documentacion con algunos en algunos tags, dando la posilidad de presentarle la info sea en un sitio web o mismo con el file .swagger.json a un equipo /o dev dedicado al front con modelos, utilizacion de la API parametros etc.
 
 **Si tuviera que armarlo hoy ...  lo haría en React. y usaría solo el back Rest de Python si es necesario. 
- ya que da  mucha mas agilidad para desarrollar con componentes vs el/los motores de template usa Flask.*
+ ya que da  mucha mas agilidad para desarrollar con componentes vs el/los motores de template que usa Flask.*
  
 ## Utilización 
 Se debe ejecutar el app.py, y probar desde [API](http://127.0.0.1:5000/).

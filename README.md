@@ -18,19 +18,17 @@ pip install -r requirements.txt
 Si bien estoy en proceso a de moverme finalmente a JavaScript para este caso opté  por las siguientes tecnologias : 
 **Framework**: Flask RESTx - API  [RESTX](https://flask-restx.readthedocs.io/en/latest/)
 
-**DB**: Con el fin de explorar un poco mas MongoDB ya que solo habia hechos algunas pruebas, me parecia un buen desafio.
+**DB**: Con el fin de explorar un poco mas, elegí MongoDB ya que solo habia hechos algunas pruebas, me parecia divertido para sumarme al desafio, de haber trabajado siempre con SQL y afines.
 
 Se tienen dos colecciones de datos en la base "secundaria" ( alumnos y notas). Dentro de alumno hay un arreglo de materias.
 
 ## Alcance
 1) Esta fuera de alcance en esta prueba, la confiabilizacion de los datos. Se asume que hay integridad de ID's entre las Entidades. (_Alumno-Materias/Notas_). 
 
-
-
 2) Fuera de alcance el frontEnd del Portal. En su "lugar" utilicé el framework Restx (simplificando varias cosas) que agiliza la documentacion con algunos en algunos tags, dando la posilidad de presentarle la info sea en un sitio web o mismo con el file .swagger.json a un equipo /o dev dedicado al front con modelos, utilizacion de la API parametros etc.
 
 **Si tuviera que armarlo hoy ...  lo haría en React. y usaría solo el back Rest de Python si es necesario. 
- ya que da  mucha mas agilidad para desarrollar que el motor de template usa Flask.*
+ ya que da  mucha mas agilidad para desarrollar con componentes vs el/los motores de template usa Flask.*
  
 ## Utilizacion 
 Se debe ejecutar el app.py, y probar desde [API](http://127.0.0.1:5000/).
